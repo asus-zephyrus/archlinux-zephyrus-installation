@@ -25,6 +25,6 @@ makepkg -si --noconfirm
 
 sudo systemctl enable lightdm
 
-echo "SYSTEM REBOOTING IN 5 SECONDS"
+/bin/echo -e "\e[1;32mDone! SYSTEM REBOOTS IN 5 SECONDS \e[0m"
 sleep 5
 reboot
