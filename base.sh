@@ -12,7 +12,7 @@ echo "::1       localhost" >> /etc/hosts
 echo "127.0.1.1 arctechsol.localdomain arctechsol" >> /etc/hosts
 echo root:password | chpasswd
 
-pacman -S --noconfirm grub efibootmgr networkmanager network-manager-applet dialog wpa_supplicant mtools dosfstools reflector base-devel linux-headers xdg-user-dirs xdg-utils bluez bluez-utils alsa-utils pulseaudio bash-completion openssh rsync reflector tlp virt-manager qemu qemu-arch-extra ovmf bridge-utils dnsmasq vde2 ebtables iptables flatpak sof-firmware
+pacman -S --noconfirm grub efibootmgr networkmanager network-manager-applet dialog wpa_supplicant mtools dosfstools reflector base-devel linux-headers xdg-user-dirs xdg-utils bluez bluez-utils alsa-utils pulseaudio bash-completion openssh rsync reflector tlp virt-manager qemu qemu-arch-extra ovmf ebtables iptables flatpak
 
 pacman -S --noconfirm xf86-video-amdgpu xf86-video-intel
 # pacman -S --noconfirm nvidia nvidia-utils nvidia-settings
