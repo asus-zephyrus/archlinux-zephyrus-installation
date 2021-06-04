@@ -12,7 +12,7 @@ echo "::1       localhost" >> /etc/hosts
 echo "127.0.1.1 arctechsol.localdomain arctechsol" >> /etc/hosts
 echo root:password | chpasswd
 
-pacman -S --noconfirm grub efibootmgr networkmanager network-manager-applet dialog wpa_supplicant mtools dosfstools reflector base-devel linux-headers xdg-user-dirs xdg-utils bluez bluez-utils alsa-utils pulseaudio bash-completion openssh rsync reflector tlp virt-manager qemu qemu-arch-extra ovmf ebtables iptables flatpak
+pacman -S --noconfirm grub efibootmgr networkmanager network-manager-applet dialog wpa_supplicant mtools dosfstools reflector base-devel linux-headers xdg-user-dirs xdg-utils bluez bluez-utils alsa-utils pulseaudio bash-completion openssh rsync reflector tlp virt-manager qemu qemu-arch-extra ovmf ebtables iptables flatpak polkit polkit-qt5 polkit-gnome
 
 pacman -S --noconfirm xf86-video-amdgpu xf86-video-intel
 # pacman -S --noconfirm nvidia nvidia-utils nvidia-settings
@@ -28,11 +28,11 @@ systemctl enable sshd
 systemctl enable tlp
 systemctl enable reflector.timer
 systemctl enable fstrim.timer
-systemctl enable libvirtd
+#systemctl enable libvirtd
 
 useradd -m arctech
 echo arctech:sam.1234 | chpasswd
-usermod -aG libvirt arctech
+#usermod -aG libvirt arctech
 
 echo "arctech ALL=(ALL) ALL" >> /etc/sudoers.d/arctech
 
