@@ -159,7 +159,7 @@ paru-bin
 patch
 pavucontrol
 pfetch
-picom-jonaburg-git
+picom
 pkgconf
 playerctl
 polybar
