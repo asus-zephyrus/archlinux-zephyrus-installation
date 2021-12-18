@@ -649,3 +649,5 @@ youtube-dl
 zafiro-icon-theme
 zenity
 zscroll-git
+libva-mesa-driver
+mesa-vdpau
