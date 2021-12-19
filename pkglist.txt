@@ -226,19 +226,10 @@ libusb-compat
 libva-intel-driver
 libva-utils
 libvdpau-va-gl
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
-lightdm-slick-greeter
-lightdm-webkit2-greeter
-linux
 linux-atm
 linux-firmware
-linux-headers
 linux-tkg-bmq
 linux-tkg-bmq-headers
-linux-zen
-linux-zen-headers
 llvm-amdgpu
 logrotate
 lolcat
@@ -277,7 +268,6 @@ nano
 nbd
 ndisc6
 neard
-neofetch
 nerd-fonts-mononoki
 nerd-fonts-source-code-pro
 network-manager-applet
@@ -389,7 +379,6 @@ sardi-orb-colora-variations-icons-git
 scrcpy
 screen
 scrot
-sddm
 sdl_image
 sdparm
 sed
@@ -430,7 +419,6 @@ thunar-volman
 timeshift
 timeshift-autosnap
 timeshift-support
-tlp
 tmux
 tor-browser
 tpm2-tss
@@ -478,7 +466,6 @@ udisks2
 unace
 unrar
 unzip
-upower
 usb_modeswitch
 usbmuxd
 usbutils
