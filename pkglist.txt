@@ -78,14 +78,12 @@ dhclient
 dialog
 diffutils
 dina-font
-dmenu
 dmraid
 dnsmasq
 dosfstools
 downgrade
 droidcam
 duf-bin
-dxvk-mingw-git
 e2fsprogs
 edid-decode-git
 edk2-ovmf
@@ -228,8 +226,6 @@ libva-utils
 libvdpau-va-gl
 linux-atm
 linux-firmware
-linux-tkg-bmq
-linux-tkg-bmq-headers
 llvm-amdgpu
 logrotate
 lolcat
@@ -301,7 +297,6 @@ opencv
 openresolv
 openssh
 openvpn
-os-prober
 oxy-neon
 p7zip
 p7zip-gui
@@ -350,7 +345,6 @@ rp-pppoe
 rsync
 rtaudio
 rubberband
-rxvt-unicode-terminfo
 sane
 sardi-colora-variations-icons-git
 sardi-flat-colora-variations-icons-git
@@ -384,7 +378,6 @@ sdparm
 sed
 sg3_utils
 shairport-sync
-simplescreenrecorder
 smartmontools
 sndio
 sof-firmware
@@ -589,3 +582,9 @@ zenity
 zscroll-git
 libva-mesa-driver
 mesa-vdpau
+arcolinux-logout-git
+arcolinux-logout-themes-git
+arcolinux-meta-logout
+arcolinux-betterlockscreen-git
+linux-zen
+linux-zen-headers
