@@ -235,7 +235,7 @@ lshw
 lsscsi
 lvm2
 lxappearance
-lxsession
+lxsession-gtk3
 ly
 m4
 mailspring
