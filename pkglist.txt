@@ -287,7 +287,6 @@ numix-gtk-theme-git
 numlockx
 nvme-cli
 obs-studio
-oh-my-zsh-git
 ookla-speedtest-bin
 openbox-themes-pambudi-git
 opencl-amd
