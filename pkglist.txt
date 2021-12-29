@@ -7,6 +7,8 @@ adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 adobe-source-sans-fonts
 airdroid-nativefier
+alacritty
+alacritty-themes
 all-repository-fonts
 alsa-firmware
 alsa-plugins
@@ -181,7 +183,6 @@ iw
 jfsutils
 jq
 kdenlive
-kitty
 kvantum
 kvantum-theme-nordic-git
 ladspa
@@ -321,7 +322,7 @@ patch
 pavucontrol
 pcsclite
 pfetch
-picom
+picom-jonaburg-git
 pkgconf
 playerctl
 polkit
@@ -471,7 +472,6 @@ unzip
 usb_modeswitch
 usbmuxd
 usbutils
-variety
 vim
 virt-manager
 virtualbox
@@ -527,6 +527,7 @@ xf86-video-openchrome
 xf86-video-vesa
 xfce4-appfinder
 xfce4-notifyd
+xfce4-panel
 xfce4-power-manager
 xfce4-screenshooter
 xfce4-settings
