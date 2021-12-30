@@ -1,4 +1,5 @@
 accountsservice
+awesome
 adapta-gtk-theme
 adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
