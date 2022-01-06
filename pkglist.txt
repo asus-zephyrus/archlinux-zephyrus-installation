@@ -1,5 +1,3 @@
-accountsservice
-awesome
 adapta-gtk-theme
 adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
@@ -7,9 +5,9 @@ adobe-source-han-sans-kr-fonts
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 adobe-source-sans-fonts
+aic94xx-firmware
 airdroid-nativefier
 alacritty
-alacritty-themes
 all-repository-fonts
 alsa-firmware
 alsa-plugins
@@ -63,8 +61,6 @@ bluez-cups
 bluez-hid2hci
 bluez-utils
 broadcom-wl
-bspwm
-btrfs-progs
 capitaine-cursors
 chaotic-keyring
 chaotic-mirrorlist
@@ -103,7 +99,6 @@ faba-icon-theme-git
 faba-mono-icons-git
 fakeroot
 fatresize
-feh
 ffmpegthumbnailer
 figlet
 file-roller
@@ -145,7 +140,6 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
-gstreamer
 gstreamer-vaapi
 gtk-theme-arc-gruvbox-git
 gufw
@@ -184,6 +178,7 @@ iw
 jfsutils
 jq
 kdenlive
+kitty
 kvantum
 kvantum-theme-nordic-git
 ladspa
@@ -210,7 +205,6 @@ lib32-openal
 lib32-opencl-mesa
 lib32-sqlite
 lib32-v4l-utils
-lib32-vkd3d
 lib32-vulkan-amdgpu-pro
 lib32-vulkan-icd-loader
 lib32-vulkan-intel
@@ -231,8 +225,10 @@ libusb-compat
 libva-intel-driver
 libva-mesa-driver
 libva-utils
+libva-vdpau-driver
 libvdpau-va-gl
 lightdm
+lightdm-gtk-greeter
 lightdm-webkit2-greeter
 linux-atm
 linux-firmware
@@ -253,7 +249,6 @@ mailspring
 make
 man-pages
 materia-gtk-theme
-materia-kde
 mc
 mdadm
 memtest86+
@@ -291,8 +286,6 @@ noto-fonts-emoji
 nss-mdns
 ntfs-3g
 ntp
-numix-circle-arc-icons-git
-numix-gtk-theme-git
 numlockx
 nvme-cli
 obs-studio
@@ -304,6 +297,7 @@ opencl-mesa
 openconnect
 opencv
 openresolv
+openssh
 openvpn
 oxy-neon
 p7zip
@@ -312,8 +306,6 @@ pacman-contrib
 pamac-aur
 pantheon-calculator
 pantheon-photos
-paper-icon-theme-git
-papirus-icon-theme
 paprefs
 partclone
 parted
@@ -323,12 +315,9 @@ patch
 pavucontrol
 pcsclite
 pfetch
-picom-jonaburg-git
 pkgconf
 playerctl
-polkit
 polkit-gnome
-polybar
 poppler-glib
 poppler-qt5
 ppp
@@ -349,7 +338,6 @@ qt5ct
 reflector
 reiserfsprogs
 ripgrep
-ristretto
 rofi
 rp-pppoe
 rsync
@@ -396,22 +384,15 @@ spotify
 spotifywm-git
 squashfs-tools
 stacer
-steam
-steam-native-runtime
 sudo
 surfn-icons-git
 surfn-mint-y-icons-git
 sutils-git
-sweet-gtk-theme-dark
-sweet-theme-git
-sxhkd
 syslinux
 system-config-printer
-system76-power
 tamsyn-font
 tcpdump
 telegram-desktop
-terminator
 terminus-font
 testdisk
 tex-gyre-fonts
@@ -420,13 +401,9 @@ thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
-timeshift
-timeshift-autosnap
-timeshift-support
 tmux
 tor-browser
 tpm2-tss
-transmission-cli
 trayer
 tree
 ttf-anonymous-pro
@@ -473,10 +450,10 @@ unzip
 usb_modeswitch
 usbmuxd
 usbutils
+vdpauinfo
 vim
 virt-manager
 virtualbox
-vkd3d
 vlc
 volumeicon
 vpnc
@@ -491,15 +468,13 @@ vulkan-swrast
 vulkan-tools
 vulkan-validation-layers
 w3m
-webkit2gtk
+wd719x-firmware
 wget
 which
 whois
-wine-staging
 wireless-regdb
 wireless_tools
 wmctrl
-wpa_supplicant
 wvdial
 xarchiver
 xbindkeys
@@ -536,9 +511,6 @@ xfce4-taskmanager
 xfsprogs
 xfwm4
 xl2tpd
-xmobar
-xmonad
-xmonad-contrib
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
@@ -590,4 +562,3 @@ yad
 youtube-dl
 zafiro-icon-theme
 zenity
-zscroll-git
