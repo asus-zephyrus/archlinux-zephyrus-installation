@@ -44,7 +44,6 @@ automake
 autorandr
 awesome-terminal-fonts
 ayu-theme
-balena-etcher
 base
 bash-completion
 bat
@@ -78,7 +77,6 @@ dex
 dhclient
 dialog
 dina-font
-dmenu
 dmraid
 dnsmasq
 dosfstools
@@ -89,7 +87,6 @@ edid-decode-git
 edk2-ovmf
 edk2-shell
 efibootmgr
-emacs
 engrampa
 ethtool
 exfatprogs
@@ -100,7 +97,6 @@ faba-mono-icons-git
 fakeroot
 fatresize
 ffmpegthumbnailer
-figlet
 file-roller
 firefox
 fish
@@ -122,8 +118,6 @@ gitfiend
 gitg
 gitkraken
 gksu
-glava
-glxinfo
 gnome-disk-utility
 gnome-keyring
 gnu-netcat
@@ -133,7 +127,6 @@ gptfdisk
 groff
 grub
 grub-btrfs
-grub-customizer
 gsfonts
 gst-libav
 gst-plugins-bad
@@ -178,7 +171,7 @@ iw
 jfsutils
 jq
 kdenlive
-kitty
+xfce4-terminal
 kvantum
 kvantum-theme-nordic-git
 ladspa
@@ -245,7 +238,6 @@ lvm2
 lxappearance
 lxsession-gtk3
 m4
-mailspring
 make
 man-pages
 materia-gtk-theme
@@ -314,7 +306,6 @@ paru-bin
 patch
 pavucontrol
 pcsclite
-pfetch
 pkgconf
 playerctl
 polkit-gnome
@@ -368,7 +359,6 @@ sardi-mono-papirus-colora-variations-icons-git
 sardi-orb-colora-mint-y-icons-git
 sardi-orb-colora-mixing-icons-git
 sardi-orb-colora-variations-icons-git
-scrcpy
 screen
 scrot
 sdl_image
