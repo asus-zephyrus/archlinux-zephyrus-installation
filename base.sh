@@ -17,7 +17,7 @@ pacman -S --noconfirm grub efibootmgr networkmanager network-manager-applet dial
 pacman -S --noconfirm xf86-video-amdgpu xf86-video-intel
 # pacman -S --noconfirm nvidia nvidia-utils nvidia-settings
 
-grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=ArchLinux
+grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=ArchLinux
 grub-mkconfig -o /boot/grub/grub.cfg
 
 systemctl enable NetworkManager
